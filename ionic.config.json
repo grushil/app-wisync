@@ -1,0 +1,8 @@
+{
+  "name": "data-sync",
+  "app_id": "22bf10d4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
